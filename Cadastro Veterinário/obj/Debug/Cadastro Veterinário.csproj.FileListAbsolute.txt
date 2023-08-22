@@ -1,0 +1,13 @@
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\bin\Debug\Cadastro Veterinário.exe.config
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\bin\Debug\Cadastro Veterinário.exe
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\bin\Debug\Cadastro Veterinário.pdb
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\obj\Debug\Cadastro Veterinário.csproj.AssemblyReference.cache
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\obj\Debug\Cadastro Veterinário.csproj.SuggestedBindingRedirects.cache
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\obj\Debug\Cadastro_Veterinário.Properties.Resources.resources
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\obj\Debug\Cadastro_Veterinário.Telas.TelaFuncionarioi.resources
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\obj\Debug\Cadastro_Veterinário.Telas.TelaInicio.resources
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\obj\Debug\Cadastro_Veterinário.Telas.TelaLogin.resources
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\obj\Debug\Cadastro Veterinário.csproj.GenerateResource.cache
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\obj\Debug\Cadastro Veterinário.csproj.CoreCompileInputs.cache
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\obj\Debug\Cadastro Veterinário.exe
+C:\Users\Master\Documents\Ifro -2B\Programação Orientada de Objetos\3º Bimestre\Cadastro Veterinário\Cadastro Veterinário\obj\Debug\Cadastro Veterinário.pdb
